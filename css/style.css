@@ -1,0 +1,10 @@
+body {
+    padding-top: 3.5rem;
+  }
+
+  #jumboImg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: static;
+    background-position: center;
+   }
